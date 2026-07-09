@@ -289,7 +289,7 @@ cd frontend && npm run build
 
 ### Demo 1：已分析仓库的闪电回访（~30 秒）
 
-<video src="demo1.mp4" controls width="100%" style="max-width: 800px; border-radius: 8px;"></video>
+[![Demo 1 封面](demo1-poster.png)](demo1.mp4)
 
 **场景**：你之前已经分析过一个仓库，隔了几天有人问你"这个项目有哪些风险点？各模块之间怎么依赖的？"——你不想再看一遍代码，也不想再花几分钟重新跑一次分析。
 
@@ -302,7 +302,7 @@ cd frontend && npm run build
 
 ### Demo 2：陌生仓库深度考古（~2 分钟）
 
-<video src="demo2.mp4" controls width="100%" style="max-width: 800px; border-radius: 8px;"></video>
+[![Demo 2 封面](demo2-poster.png)](demo2.mp4)
 
 **场景**：收到一个从未见过的 GitHub 仓库链接，明天就要开始贡献代码，但完全没有头绪。
 
