@@ -1,0 +1,37 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/
+venv/
+.env
+.env.local
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+node_modules/
+.next/
+
+# Frontend build outputs
+frontend/dist/
+
+# ChromaDB vector store (generated at runtime)
+.archaeologist/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+
+# Videos — keep .mp4 copies in repo root, ignore source .mov
+*.mov
